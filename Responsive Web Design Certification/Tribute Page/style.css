@@ -1,0 +1,50 @@
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather lang=en" />
+
+body {
+  margin-top=60px;
+  background-color: black;
+}
+
+
+.container {
+  background-color: #666699;
+}
+
+* {
+  color: white;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  margin: auto;
+  height: auto;
+  border: 4px solid #ddd;
+  border-radius: 4px;
+}
+
+#img-caption {
+  text-align: center
+}
+
+#list {
+  color: white;
+  display: block;
+  width: 60%;
+  margin: auto;
+}
+
+#quote {
+  font-size: 18px;
+  font-family: Merriweather;
+  width: 80%;
+  margin: auto;
+}
+
+a {
+  color: black;
+}
+
+blockquote {
+    border-left: none;
+}
