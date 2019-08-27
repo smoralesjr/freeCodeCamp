@@ -1,0 +1,7 @@
+.container {
+  display: grid;
+}
+ul {
+  list-style: none;
+  display: flex
+  }
